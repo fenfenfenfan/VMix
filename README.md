@@ -26,8 +26,10 @@ class="center">
 For more visual results, go checkout our <a href="https://vmix-diffusion.github.io/VMix/" target="_blank">Project Page</a>
 
 ### 🔥Updates
+We will open source this project as soon as possible. Thank you for your patience and support! 🌟
 - [x] Release arXiv paper. Check the details [here](https://vmix-diffusion.github.io/VMix/).
-- [ ] Release inference code and checkpoints(Coming soon).
+- [ ] Release inference code(Coming soon).
+- [ ] Release model checkpoints.
 - [ ] Release ComfyUI node.
 
 ##  Citation
