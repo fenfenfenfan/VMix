@@ -1,6 +1,9 @@
 <h1 align="center">VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control</h1>
 
-<p align="center"> <a href="https://vmix-diffusion.github.io/VMix/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-VMix-yellow"></a> </p>
+<p align="center"> 
+<a href="https://vmix-diffusion.github.io/VMix/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-VMix-yellow"></a> 
+<a href="https://arxiv.org/pdf/2412.20800"><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-2412.20800-b31b1b.svg"></a>
+</p>
 
 ><p align="center"> <span style="color:#137cf3; font-family: Gill Sans">Shaojin Wu,</span><sup>1</sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Fei Ding,</span><sup>1,*</sup></a> <span style="color:#137cf3; font-family: Gill Sans">Mengqi Huang,</span><sup>1,2</sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Wei Liu,</span><sup>1</sup> </a>  <span style="color:#137cf3; font-family: Gill Sans">Qian He</span><sup>1</sup></a> <br> 
 ><span style="font-size: 16px"><sup>1</sup> ByteDance Inc. &nbsp;&nbsp;<sup>2</sup> University of Science and Technology of China</span></p>
@@ -34,3 +37,15 @@ We will open source this project as soon as possible. Thank you for your patienc
 
 ##  Citation
 If VMix is helpful, please help to ⭐ the repo.
+
+If you find this project useful for your research, please consider citing our paper:
+```bibtex
+@misc{wu2024vmix,
+    title={VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control},
+    author={Shaojin Wu and Fei Ding and Mengqi Huang and Wei Liu and Qian He},
+    year={2024},
+    eprint={2412.20800},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
